@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/39/trunk/VoiceDemo
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/VoiceDemo/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/39/trunk/VoiceDemo/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/VoiceDemo/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/VoiceDemo/AndroidManifest.xml
+END
+format
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/12/trunk/VoiceDemo/format
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/VoiceDemo/README.txt
+END

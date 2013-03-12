@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1253585480 source:/home/oakley349/Documents/PolyList/PolyList.cpp
+	<iostream>
+	<cstddef>
+	<new>
+	"PolyList.h"
+
+1253590150 /home/oakley349/Documents/PolyList/PolyList.h
+	"ListException.h"
+	"ListIndexOutOfRangeException.h"
+
+1253230885 /home/oakley349/Documents/PolyList/ListException.h
+	<stdexcept>
+	<string>
+
+1253230886 /home/oakley349/Documents/PolyList/ListIndexOutOfRangeException.h
+	<stdexcept>
+	<string>
+
+1253590358 source:/home/oakley349/Documents/PolyList/main.cpp
+	<iostream>
+	"PolyList.h"
+
+1253590358 source:/home/oakley349/Documents/PolyListFinal/main.cpp
+	<iostream>
+	"PolyList.h"
+
+1253590150 /home/oakley349/Documents/PolyListFinal/PolyList.h
+	"ListException.h"
+	"ListIndexOutOfRangeException.h"
+
+1253230885 /home/oakley349/Documents/PolyListFinal/ListException.h
+	<stdexcept>
+	<string>
+
+1253230886 /home/oakley349/Documents/PolyListFinal/ListIndexOutOfRangeException.h
+	<stdexcept>
+	<string>
+
+1253585480 source:/home/oakley349/Documents/PolyListFinal/PolyList.cpp
+	<iostream>
+	<cstddef>
+	<new>
+	"PolyList.h"
+
+1253591125 source:/home/oakley349/Documents/Hunter Fall '09/CSCI-235/Assignments/PolyListFinal/PolyList.cpp
+	<iostream>
+	<cstddef>
+	<new>
+	"PolyList.h"
+
+1253591125 /home/oakley349/Documents/Hunter Fall '09/CSCI-235/Assignments/PolyListFinal/PolyList.h
+	"ListException.h"
+	"ListIndexOutOfRangeException.h"
+
+1253230885 /home/oakley349/Documents/Hunter Fall '09/CSCI-235/Assignments/PolyListFinal/ListException.h
+	<stdexcept>
+	<string>
+
+1253230886 /home/oakley349/Documents/Hunter Fall '09/CSCI-235/Assignments/PolyListFinal/ListIndexOutOfRangeException.h
+	<stdexcept>
+	<string>
+
+1253591125 source:/home/oakley349/Documents/Hunter Fall '09/CSCI-235/Assignments/PolyListFinal/main.cpp
+	<iostream>
+	"PolyList.h"
+
